@@ -1,0 +1,3 @@
+stage is the place where files are in temporary
+repository is the place to save file forever
+
