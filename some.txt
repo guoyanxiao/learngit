@@ -2,5 +2,5 @@ i hardly study git today in a good mood
 today is thursday
 i am a dummy worker
 it's a wonderful day
-git tracks changes
-
+git tracks changes of files
+study the server ang register github account
