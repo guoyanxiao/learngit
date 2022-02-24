@@ -4,3 +4,7 @@ i am a dummy worker
 it's a wonderful day
 git tracks changes of files
 study the server ang register github account
+
+
+creating a new branch is quick And simple
+
