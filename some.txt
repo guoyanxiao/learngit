@@ -5,5 +5,5 @@ it's a wonderful day
 git tracks changes of files
 study the server ang register github account
 
-creating a new branch is quick&simple
+creating a new branch is quick and simple
 
